@@ -27,6 +27,7 @@
 * [Faucets](tools/faucets.md)
 * [Safe wallet](tools/safe-wallet.md)
 * [Block Explorers](tools/block-explorers.md)
+* [Indexers](tools/indexers.md)
 * [Safe wallet](<tools/safe-wallet (1).md>)
 
 ## more resources
